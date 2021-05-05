@@ -1,0 +1,6 @@
+.idea/
+target/
+allure-results/
+screenshots/
+*.jpg
+annasemenovaRepo.iml
