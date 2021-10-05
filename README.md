@@ -1,5 +1,5 @@
 <h1> annasemenovaRepo </h1>
-<p> nopCpmmerce online store automation testing project. This project uses Java, Selenium, WebDriverManager, TestNG, Allure, Listeners. Design patterns such as PageObject, Factory, SingleTone are used. The following functionality will be tested:</p>
+<p> nopCommerce online store automation testing project. This project uses Java, Selenium, WebDriverManager, TestNG, Allure, Listeners. Design patterns such as PageObject, Factory, SingleTone are used. The following functionality will be tested:</p>
 
 <ul> 
 <li>Login Logout functionality</li>
